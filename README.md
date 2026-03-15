@@ -1,4 +1,6 @@
-# 📡 Installed Software Radar API
+# 📡 Software Radar API
+
+> 🌐 **Language / Idioma:** [🇧🇷 Português](README-PT.md) | [🇪🇸 Español](README-ES.md) | 🇺🇸 English
 
 A REST API built with **ASP.NET Core** that scans and returns all installed programs on a Windows machine — via Registry and Start Menu — in JSON format.
 
@@ -30,7 +32,7 @@ A REST API built with **ASP.NET Core** that scans and returns all installed prog
 ## 📋 Requirements
 
 - Windows 10 or later
-- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+- [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0)
 - Visual Studio 2022+ or VS Code
 
 ---
@@ -40,7 +42,7 @@ A REST API built with **ASP.NET Core** that scans and returns all installed prog
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/installed-software-radar-api.git
+git clone https://github.com/HederGabriel/installed-software-radar-api.git
 cd installed-software-radar-api
 ```
 
