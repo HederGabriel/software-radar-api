@@ -61,7 +61,6 @@ dotnet run
 The API will start at:
 
 ```
-https://localhost:7239
 http://localhost:5257
 ```
 
