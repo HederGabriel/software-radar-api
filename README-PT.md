@@ -61,7 +61,6 @@ dotnet run
 A API estará disponível em:
 
 ```
-https://localhost:7239
 http://localhost:5257
 ```
 
@@ -72,7 +71,7 @@ http://localhost:5257
 Após executar, abra o navegador e acesse:
 
 ```
-https://localhost:7239/swagger
+http://localhost:5257/swagger
 ```
 
 Você pode testar todos os endpoints diretamente pelo navegador.
